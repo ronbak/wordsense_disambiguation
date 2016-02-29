@@ -1,0 +1,11 @@
+UNI: dy2284
+Name: Dongren You
+
+2. I notice that there are several parameters for the classifiers. For this assignment I just use the default settings.
+   And I train the k-nearest neighbors classifier and SVM classifier by the context vectors I obtained in part 1. 
+
+   Then I use the two different classifiers to do classification on training data. The SVM classifier gives us an 
+   accuracy of 100%. And I obtain an accuracy of 68.9185750636% based on the k-nearest neighbors classifier. 
+
+   It seems that SVM has a better performance on training data than the k-nearest neighbors classifier did. However,
+   we cannot ignore the overfitting which may occur in the training process.   
